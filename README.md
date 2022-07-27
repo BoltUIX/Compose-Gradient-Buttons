@@ -15,3 +15,6 @@ How to create Gradient Buttons | Shapes in Jetpack Compose
 
 Our website:
 https://www.boltuix.com/2022/07/gradient-button-shapes-in-jetpack.html
+
+A handpicked collection of beautiful color gradients for web and app designers. 
+https://www.boltuix.com/2022/07/gradient-colors.html
